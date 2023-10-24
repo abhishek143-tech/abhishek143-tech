@@ -39,7 +39,7 @@ Hi, I'm Abhishek Dhok, a dedicated and results-oriented 📱 **iOS developer** w
 
 <p align="center">
 
-<a href="https://www.instagram.com/abhishek.dhok/?igshid=MzRlODBiNWFlZA%3D%3D">
+<a href="https://www.instagram.com/abhishek.dhok/">
 <img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a>  
 
 <a href="https://www.linkedin.com/in/abhishek-dhok/">
